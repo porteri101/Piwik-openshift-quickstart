@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Piwik on OpenShift  
 =========================  
 Piwik is a downloadable, open source (GPL licensed) real time web analytics software program. It provides you with detailed reports on your website visitors: the search engines and keywords they used, the language they speak, your popular pages, and so much more.  
