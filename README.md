@@ -26,7 +26,7 @@ cd piwik/php
         
 rm -rf *  
         
-git remote add upstream -m master git://github.com/gshipley/piwik-openshift-quickstart.git  
+git remote add upstream -m master git://github.com/porteri101/piwik-openshift-quickstart.git  
         
 git pull -s recursive -X theirs upstream master
     
